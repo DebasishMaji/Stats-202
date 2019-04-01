@@ -1,6 +1,6 @@
 # Stats-202
 
-##Purpose:
+###Purpose:
 
   * ***Understand the distinction between supervised and unsupervised learning and be able to identify appropriate tools to answer different research questions.***
 
@@ -19,4 +19,4 @@
  
 ###Lectures:
     
-   ***Lecture1: see documentation [here](Stats-202/lectures/lecture1.md)***
+   ***Lecture1: see documentation [here](lectures/lecture1.md)***
