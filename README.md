@@ -19,4 +19,4 @@
  
 ###Lectures:
     
-   ***Lecture1: see documentation [here](Stats-202/lectureslecture1.md)***
+   ***Lecture1: see documentation [here](Stats-202/lectures/lecture1.md)***
