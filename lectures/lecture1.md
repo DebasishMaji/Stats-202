@@ -1,6 +1,6 @@
-#Lecture 1: Course Logistics
+# Lecture 1: Course Logistics
 
-###Prediction challenges:
+### Prediction challenges:
   The MNIST dataset is a library of handwritten digits.
  
   In a prediction challenge, a training set of images of handwritten digits are given, which are lebeled from 0 to 9.
@@ -18,20 +18,20 @@
     
     The challenge was to predict those rankings.
     
-##Supervised vs. Unsupervised learning
+## Supervised vs. Unsupervised learning
     
-  ####In unsupervised learning we start with a data matrix.
+  #### In unsupervised learning we start with a data matrix.
   
   The matrix includes samples or units vs varibales or factors 
   
-#####Goal:
+##### Goal:
    * **Find a meaningful relationship between variables and units** - ***Correlation analysis***
    
    * **Find low dimensional representations of the data which make it easy to visualize the variables and units** - ***PCA, ICA, isomap, locally linear embeddings, etc***
    
    * **Find meaningful groupings of the data** - ***Clustering***
    
-  ####In supervised learning, there are input variables and output variables.
+  #### In supervised learning, there are input variables and output variables.
   
   If the output variable is quantitative, then it is called regression problem.
   
@@ -41,10 +41,10 @@
   
     Y = f(X) + ε  where ε is Random error
    
-   #####Goal
+   ##### Goal
    To learn the function f, using a set of training samples.
    
-   ###Motivations:
+   ### Motivations:
    
    * ***Prediction*** : useful when the input variable is readily availbale, but the output variable is not.
        
@@ -55,9 +55,10 @@
       which variables influence the output and which don't?
       
       What is the relationship between each variable and the output e.g. linear or non-linear?
-      
+   
+    Example: What is the influence of genetic variations on the incidence of heart disease.
  
-###A sample Kaggle Challenge
+### A sample Kaggle Challenge
 
 Help out San Francisco's foremost Baroque ensemble bring in subscriptions!
 

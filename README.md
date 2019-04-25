@@ -1,6 +1,6 @@
 # Stats-202
 
-###Purpose:
+## Purpose:
 
   * ***Understand the distinction between supervised and unsupervised learning and be able to identify appropriate tools to answer different research questions.***
 
@@ -17,6 +17,6 @@
    * ***Be exposed to other topics in machine learning, such as missing data, prediction using time series and relational data, non-linear dimensionality reduction techniques, web-based data visualizations, anomaly detection, and representation learning.***
    
  
-###Lectures:
+## Lectures:
     
    ***Lecture1: see documentation [here](lectures/lecture1.md)***
